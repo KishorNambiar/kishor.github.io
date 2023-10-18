@@ -59,7 +59,7 @@ button {
     background-color: #57FFA6;
     font-size: 30px;
     font-weight: bold;
-    border: none;
+    border: 1px solid #57FFA6;
     border-radius: 10px;
     margin: auto;
     padding: 20px;
