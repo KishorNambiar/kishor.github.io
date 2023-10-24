@@ -9,10 +9,12 @@ body {
     background-size: 100%;
     background-image: url(./Assets/match.jpg);
     background-repeat: no-repeat;
+    margin: 5px;
 }
 
+
 .toast-container {
-    margin-top: 20%;
+    margin-top: 2%;
     padding: none;
     width: 1121px;
     height: 312px;
@@ -79,6 +81,21 @@ button {
     padding: 20px;
 }
 
+.tray {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0F76FF;
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    margin-left: 1125px;
+    margin-top: -295px;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+}
+
 .subcontent {
     display: flex;
 }
@@ -107,4 +124,10 @@ button:hover {
     100% {
         left: 10px;
     }
+}
+
+.toast-container:active {
+    transition-delay: 10ms;
+    background-color: #0F76FF;
+    border: 7px solid #0F76FF;
 }

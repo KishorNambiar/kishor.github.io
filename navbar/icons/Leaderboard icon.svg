@@ -1,0 +1,10 @@
+<svg id="Leaderboard_icon" data-name="Leaderboard icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59" height="55.234" viewBox="0 0 59 55.234">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_6266" data-name="Rectangle 6266" width="59" height="55.234" fill="#e1e1e1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_9715" data-name="Group 9715" clip-path="url(#clip-path)">
+    <path id="Path_14401" data-name="Path 14401" d="M46.447,5.021V0H12.553V5.021H0V17.574a8.787,8.787,0,0,0,8.787,8.787h4.362A16.942,16.942,0,0,0,27.617,38.8v6.393H20.085v5.021H15.064v5.021H45.192V50.213H40.17V45.192H32.638V38.615A16.956,16.956,0,0,0,45.851,26.362h4.362A8.787,8.787,0,0,0,59,17.574V5.021ZM12.553,21.34H8.787a3.771,3.771,0,0,1-3.766-3.766V10.043h7.532Zm23.589,3.884-6.014-3.162-6.014,3.162,1.149-6.7L20.4,13.785l6.723-.977,3.006-6.092,3.006,6.092,6.723.977-4.864,4.743Zm17.837-7.65a3.771,3.771,0,0,1-3.766,3.766H46.447v-11.3h7.532Z" fill="#e1e1e1"/>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+ .nav-component {
+     font-size: 8px;
+     padding: 1.5px 4px 1.5px 4px;
+     background-color: #2f2f2f;
+     color: #a5a5a5;
+     border-radius: 3px;
+     display: flexbox;
+     width: 50px;
+     text-align: center;
+     gap: 25px;
+     cursor: pointer;
+     margin: 5px;
+
+ }
+
+
+ /* .wager-component {
+    width: 48px;
+    border-bottom: 2px solid #57FFA6;
+} */
+
+ .nav-component img {
+     width: 12px;
+ }
+
+ .wager-default {
+     position: absolute;
+     z-index: 1;
+ }
+
+ .wager-default:hover {
+     display: none;
+     animation-duration: 100ms;
+ }
+
+ .wager-text:hover {
+     color: #57FFA6;
+     width: auto;
+     border-bottom: 2px solid #57FFA6;
+
+ }
