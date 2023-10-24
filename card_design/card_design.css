@@ -1,0 +1,71 @@
+* {
+    font-family: 'poppins';
+}
+
+
+
+.potential-container {
+    background-color: #2f2f2f;
+    width: 1204px;
+    height: 334px;
+    border-radius: 10px;
+}
+
+.header img {
+    width: 89px;
+    border-radius: 100%;
+}
+
+.header {
+    width: 450px;
+    font-size: 30px;
+    font-weight: 500;
+    color: #a5a5a5;
+    display: flex;
+    align-items: center;
+    padding: 34px 46px 30px 34px;
+    gap: 20px
+}
+
+.win-amount {
+    width: 817px;
+    height: 71px;
+    color: #FEC828;
+    font-size: 50px;
+    padding-left: 34px;
+}
+
+.versus {
+    width: 491px;
+    height: 56px;
+    font-size: 40px;
+    color: #e1e1e1;
+    padding-top: 20px;
+    padding-left: 34px;
+}
+
+.status {
+    font-size: 40px;
+    margin-top: -270px;
+    margin-left: 950px;
+    position: relative;
+}
+
+.win {
+    color: #57FFA6;
+}
+
+.loss {
+    color: #FF5757;
+
+}
+
+.pending {
+    color: #A5A5A5;
+
+}
+
+.push {
+    color: #A5A5A5;
+
+}
