@@ -2,6 +2,9 @@
     font-family: 'poppins';
 }
 
+title {
+    background-image: url(../toast/Assets/k_star_logo.jpg);
+}
 
 
 .potential-container {
